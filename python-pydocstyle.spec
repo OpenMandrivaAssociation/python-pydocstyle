@@ -5,7 +5,7 @@
 
 Name:           python-%{pypi_name}
 Version:        %{version}
-Release:        2
+Release:        3
 Group:          Development/Python
 Summary:        pydocstyle is a static analysis tool for checking compliance with Python docstring conventions.
 
